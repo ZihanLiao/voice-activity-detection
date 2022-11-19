@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libfrontend.a CMakeFiles/frontend.dir/WaveUtil.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libfrontend.a

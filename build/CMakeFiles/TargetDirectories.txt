@@ -1,0 +1,14 @@
+/Users/marlowe/workspace/silero-vad/build/CMakeFiles/edit_cache.dir
+/Users/marlowe/workspace/silero-vad/build/CMakeFiles/rebuild_cache.dir
+/Users/marlowe/workspace/silero-vad/build/utils/CMakeFiles/utils.dir
+/Users/marlowe/workspace/silero-vad/build/utils/CMakeFiles/edit_cache.dir
+/Users/marlowe/workspace/silero-vad/build/utils/CMakeFiles/rebuild_cache.dir
+/Users/marlowe/workspace/silero-vad/build/frontend/CMakeFiles/frontend.dir
+/Users/marlowe/workspace/silero-vad/build/frontend/CMakeFiles/edit_cache.dir
+/Users/marlowe/workspace/silero-vad/build/frontend/CMakeFiles/rebuild_cache.dir
+/Users/marlowe/workspace/silero-vad/build/model/CMakeFiles/model.dir
+/Users/marlowe/workspace/silero-vad/build/model/CMakeFiles/edit_cache.dir
+/Users/marlowe/workspace/silero-vad/build/model/CMakeFiles/rebuild_cache.dir
+/Users/marlowe/workspace/silero-vad/build/bin/CMakeFiles/start_vad_test.dir
+/Users/marlowe/workspace/silero-vad/build/bin/CMakeFiles/edit_cache.dir
+/Users/marlowe/workspace/silero-vad/build/bin/CMakeFiles/rebuild_cache.dir
